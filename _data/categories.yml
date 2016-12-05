@@ -1,8 +1,8 @@
-- slug: design
-  name: Design
+- slug: virtualmachines
+  name: Virtual Machines
 
-- slug: tools
-  name: Tools
+- slug: web
+  name: Website Stuffs
 
-- slug: productivity
-  name: Productivity
+- slug: binary
+  name: Binary Stuffs
