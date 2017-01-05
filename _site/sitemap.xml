@@ -3,24 +3,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/design/tool/2015/09/07/welcome-to-jekyll.html/</loc>
+      <loc>http://localhost:4000/virtualmachines/web/2017/01/05/minotaur.html/</loc>
       
-        <lastmod>2015-09-07T09:34:01+10:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.7</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/tool/2014/08/20/sample-post.html/</loc>
-      
-        <lastmod>2014-08-20T09:56:45+10:00</lastmod>
+        <lastmod>2017-01-05T00:00:00+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -38,7 +23,7 @@
     <url>
       <loc>http://localhost:4000/about/</loc>
       
-        <lastmod>2016-12-05T14:41:30+10:00</lastmod>
+        <lastmod>2017-01-05T12:19:04+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -51,9 +36,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/categories/design/</loc>
+      <loc>http://localhost:4000/categories/binary/</loc>
       
-        <lastmod>2016-12-05T14:41:30+10:00</lastmod>
+        <lastmod>2017-01-05T12:19:04+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -62,6 +47,8 @@
         <priority>0.5</priority>
       
     </url>
+    
+  
     
   
     
@@ -70,7 +57,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2016-12-05T14:41:30+10:00</lastmod>
+        <lastmod>2017-01-05T12:19:04+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -84,10 +71,14 @@
     
   
     
+  
+    
+  
+    
     <url>
-      <loc>http://localhost:4000/categories/productivity/</loc>
+      <loc>http://localhost:4000/categories/virtual-machines/</loc>
       
-        <lastmod>2016-12-05T14:41:30+10:00</lastmod>
+        <lastmod>2017-01-05T12:19:04+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -99,14 +90,10 @@
     
   
     
-  
-    
-  
-    
     <url>
-      <loc>http://localhost:4000/categories/tools/</loc>
+      <loc>http://localhost:4000/categories/web/</loc>
       
-        <lastmod>2016-12-05T14:41:30+10:00</lastmod>
+        <lastmod>2017-01-05T12:19:04+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
